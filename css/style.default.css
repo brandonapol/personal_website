@@ -22,6 +22,11 @@ section {
   max-width: 75%;
 }
 
+.img-fluid {
+  max-width: 75%;
+  height: auto;
+}
+
 .hero {
   background: url(../img/IMG_2035.JPG);
   min-height: 100vh;
