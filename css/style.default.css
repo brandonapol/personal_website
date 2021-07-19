@@ -18,6 +18,10 @@ section {
   padding: 6rem 0;
 }
 
+#profilephoto {
+  max-width: 75%;
+}
+
 .hero {
   background: url(../img/IMG_2035.JPG);
   min-height: 100vh;
